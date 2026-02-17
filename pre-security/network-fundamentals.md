@@ -1,6 +1,5 @@
-	=============
-	#Intro to lan
-	=============
+	# Intro to Lan
+
 # Key Topics
 - Local Area Networks (LAN)
 - Private IP addressing
@@ -12,7 +11,7 @@
 - Network structure affects attack surface and defense
 
 	==========
-	#OSI model
+	# OSI model
 	==========
 
 ## What i learned 
