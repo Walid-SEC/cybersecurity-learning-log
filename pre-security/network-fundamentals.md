@@ -11,5 +11,11 @@
 - Understanding LAN design is essential for network security
 - Network structure affects attack surface and defense
 
+	##OSI model
+#what i learned 
+all the layers in the osi model and their job
+physical -> data link -> network -> transport -> session -> presentation -> application
+
+
 
 	
