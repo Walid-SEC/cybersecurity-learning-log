@@ -1,30 +1,29 @@
-	# Intro to LAN
-	
+# Intro to LAN
+
 ## Key Topics
 - Local Area Networks (LAN)
 - Private IP addressing
 - Basic LAN components
-- Network segmentation	 concepts
+- Network segmentation concepts
 
 ## Takeaways
 - Understanding LAN design is essential for network security
 - Network structure affects attack surface and defense
 
-	# OSI model
+# OSI Model
 
-## What i learned 
-all the layers in the osi model and their job
-physical -> data link -> network -> transport -> session -> presentation -> application
+## What I Learned
+- All OSI layers and their roles 
+- Physical → Data Link → Network → Transport → Session → Presentation → Application
 
-	
-	# Frames & Packets	
+# Frames & Packets
 
 ## Frames vs Packets
 - Frame (L2): Uses MAC addresses, stays inside the LAN
 - Packet (L3): Uses IP addresses, moves between networks
 - Frames change at every hop, packets stay mostly the same
 
-## TCP/IP (three way handshake)
+## TCP/IP (Three-Way Handshake)
 - SYN: Client asks to connect
 - SYN-ACK: Server agrees
 - ACK: Connection established
