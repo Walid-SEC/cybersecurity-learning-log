@@ -35,3 +35,40 @@
 - No retransmissions or order
 - Used for DNS, streaming, games
 
+
+# Extending my network
+
+## Firewall
+
+A firewall is a security device that controls network traffic based on:
+- Source and destination
+- Port number
+- Protocol (TCP, UDP)
+
+### Types of Firewalls
+- **Stateful firewall:** Tracks active connections and inspects traffic in context  
+- **Stateless firewall:** Uses fixed rules and evaluates packets individually
+
+---
+
+## VPN (Virtual Private Network)
+
+A VPN allows external devices to securely communicate with internal network resources
+by creating an encrypted tunnel between them.
+
+### Benefits
+- Encryption protects data in transit
+- Improves privacy
+- Makes tracking more difficult
+
+### Common VPN Technologies
+- PPP
+- PPTP
+- IPsec
+
+
+
+
+
+
+
