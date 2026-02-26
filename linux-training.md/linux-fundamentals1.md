@@ -25,5 +25,5 @@ command1 && command2
 ## Output Redirection
 echo "hello am walid heree" > intro
 
-> creates or overwrites a file
->> appends to a file without deleting existing content
+">" creates or overwrites a file
+">>" appends to a file without deleting existing content
