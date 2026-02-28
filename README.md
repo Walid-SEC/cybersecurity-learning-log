@@ -5,7 +5,7 @@ This repository documents my solo learning journey in cybersecurity.
 The goal of this log is to track consistent progress while building strong fundamentals in:
 - Networking
 - Linux
-- Windows
+- cybersecurity
 - Core defensive security concepts
 
 ## Structure
@@ -15,7 +15,7 @@ Each file contains short summaries and key takeaways from completed labs and roo
 
 Current phase:
 - Pre Security (TryHackMe)
-
+- linux fundamentals 
 ## Platforms & Tools
 
 - TryHackMe
