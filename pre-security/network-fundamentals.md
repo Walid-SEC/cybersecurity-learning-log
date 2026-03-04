@@ -64,7 +64,7 @@ by creating an encrypted tunnel between them.
 ### Common VPN Technologies
 - PPP
 - PPTP
-- IPsec
+- IPSEC
 
 
 
